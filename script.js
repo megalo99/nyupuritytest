@@ -34,7 +34,7 @@ function calculateScore() {
 
     var scoreDiv = document.getElementById("score"); //Gets the score div which is where the score is displayed
     var meaningDiv = document.getElementById("meaning"); //Gets the score div which is where the score is displayed
-    scoreDiv.innerHTML = "Your Score: " //Sets the div text to your score
+    scoreDiv.innerHTML = "Your Score: " + score.toString() //Sets the div text to your score
     meaningDiv.innerHTML = meaning //Sets the div text to your meaning
     scoreDiv.style.padding = "20px"
     scoreDiv.style.fontFamily = "GothamMedium"
