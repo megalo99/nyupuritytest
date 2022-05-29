@@ -121,4 +121,8 @@ input[type=checkbox] {
   padding: 10px;
 }
 
+li {
+    display: list-item;
+}
+
 
