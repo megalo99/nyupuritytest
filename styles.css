@@ -125,4 +125,7 @@ li {
     display: list-item;
 }
 
-
+ol p{
+    font-family: 'GothamLight', sans-serif;
+    margin: 0em;
+}
