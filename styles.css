@@ -61,12 +61,10 @@ h2 {
     border: none;
     color: white;
     display: inline-block;
-    padding-top: 10px;
+    padding-top: 1px;
     width: 150px;
     height: 40px;
     text-decoration: none;
-    font-size: 16px;
-    font-family: 'GothamMedium';
 }
 
 #buttondiv {
