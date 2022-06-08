@@ -19,7 +19,7 @@ function calculateScore() {
     //Associates your score with what it says about you
     var meaning;
     if (score >= 98) {
-        meaning = "You&#39re pure, uncontaminated, distilled, and undiluted."
+        meaning = "You&#39re pure, uncontaminated, distilled, and undiluted. Or a liar"
     } else if (score >= 94) {
         meaning = "Hmm are you sure you go to NYU?"
     } else if (score >= 77) {
