@@ -19,7 +19,7 @@
    
 
 body {
-    background-color: #ab82c5;
+    background-color: #b896cd;
     color: #fff;
     font-family: 'GothamLight', sans-serif;
     font-size: 1em;
@@ -47,12 +47,15 @@ h2 {
 
 #score {
     text-align: center;
-    font-size: 1.5em;
+    font-family: GothamMedium;
+    font-size: 2em;
+    padding: 20px;
 }
 
 #meaning {
     text-align: center;
-    font-size: .8em;
+    font-size: 1em;
+    padding: 20px;
 }
 
 .button {
